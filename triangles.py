@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+创建的第一个分支
 def triangles():
     Y = [1]
     while True:
